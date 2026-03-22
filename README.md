@@ -29,18 +29,12 @@ Outfoxing is a dedicated job opening platform specifically designed for MCA stud
 
 ## Technology Stack
 
-- **Frontend**: Modern web technologies
-- **Backend**: RESTful API architecture
+- **Frontend**: React Type Script
+- **Backend**: Python FAST API
 - **Database**: Supabase (PostgreSQL)
 - **Authentication**: Secure user management
 - **Deployment**: Cloud-based hosting
 
-## Getting Started
-
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn
-- Supabase account
 
 ### Installation
 
