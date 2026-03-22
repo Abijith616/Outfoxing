@@ -79,5 +79,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For any queries or support, please reach out to us at [your-email@example.com]
 
 ---
-
-**Outfoxing** - Empowering MCA graduates to take control of their career destiny!
